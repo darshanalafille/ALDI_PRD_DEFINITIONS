@@ -1,0 +1,32 @@
+{
+  "mainProductId" : 9,
+  "defaultVariantPrdCode" : "1111111",
+  "variantProducts" : [ {
+    "variants" : [ {
+      "key" : "color",
+      "value" : "blue"
+    } ],
+    "productCode" : "BLUE",
+    "override" : null
+  }, {
+    "variants" : [ {
+      "key" : "color",
+      "value" : "black"
+    } ],
+    "productCode" : "BLACK",
+    "override" : {
+      "productTitle": "Kalu paata Pihiya",
+      "productPrice": "169.99"
+    }
+  }, {
+    "variants" : [ {
+      "key" : "color",
+      "value" : "red"
+    } ],
+    "productCode" : "RED",
+    "override" : {
+      "productTitle": "Rathu paata Pihiya",
+      "productPrice": "269.99"
+    }
+  } ]
+}
