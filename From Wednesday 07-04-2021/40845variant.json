@@ -1,0 +1,56 @@
+{
+	"mainProductId": 9,
+	"mainProductCode": "40845",
+	"defaultVariantPrdCode": "40845BB",
+	"variantProducts": [
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Belgian Block"
+				}
+			],
+			"productCode": "40845BB",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Crushed Violets"
+				}
+			],
+			"productCode": "40845CV",
+			"override": {
+				"productTitle": "CROFTON Knife Set 5 Piece (Crushed Violets)",
+				"productImage": "Wk14_40845_image-4.jpg"
+			}
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Bering Sea"
+				}
+			],
+			"productCode": "40845BS",
+			"override": {
+				"productTitle": "CROFTON Knife Set 5 Piece (Bering Sea)",
+				"productImage": "Wk14_40845_image-3.jpg"
+			}
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Dusty Blue"
+				}
+			],
+			"productCode": "40845DB",
+			"override": {
+				"productTitle": "CROFTON Knife Set 5 Piece (Dusty Blue)",
+				"productImage": "Wk14_40845_image-5.jpg"
+			}
+		}
+	]
+}

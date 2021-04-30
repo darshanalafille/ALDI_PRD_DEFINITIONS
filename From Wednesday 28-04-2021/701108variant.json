@@ -1,0 +1,56 @@
+{
+	"mainProductId": 9,
+	"mainProductCode": "701108",
+	"defaultVariantPrdCode": "701108N",
+	"variantProducts": [
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Natural 434 C"
+				}
+			],
+			"productCode": "701108N",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Green 4182 C"
+				}
+			],
+			"productCode": "701108G",
+			"override": {
+				"productImage": "Wk-17_701108_Image-3.jpg",
+				"productTitle": "BODUM® Vacuum Travel Mug 350mL(Green)"
+			}
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Grey 4277 C"
+				}
+			],
+			"productCode": "701108GR",
+			"override": {
+				"productImage": "Wk-17_701108_Image-4.jpg",
+				"productTitle": "BODUM® Vacuum Travel Mug 350mL(Grey)"
+			}
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Mauve 2055 C"
+				}
+			],
+			"productCode": "701108M",
+			"override": {
+				"productImage": "Wk-17_701108_Image-5.jpg",
+				"productTitle": "BODUM® Vacuum Travel Mug 350mL(Mauve)"
+			}
+		}
+	]
+}

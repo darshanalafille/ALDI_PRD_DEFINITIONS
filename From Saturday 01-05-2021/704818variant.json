@@ -1,0 +1,43 @@
+{
+	"mainProductId": 9,
+	"mainProductCode": "704818",
+	"defaultVariantPrdCode": "704818P",
+	"variantProducts": [
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Pink"
+				}
+			],
+			"productCode": "704818P",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Blue"
+				}
+			],
+			"productCode": "704818B",
+			"override": {
+				"productImage": "Wk-17_704818_Image-4.jpg",
+				"productTitle": "VISAGE Shiatsu Neck Massage Cushion(Blue)"
+			}
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Grey"
+				}
+			],
+			"productCode": "704818G",
+			"override": {
+				"productImage": "Wk-17_704818_Image-3.jpg",
+				"productTitle": "VISAGE Shiatsu Neck Massage Cushion(Grey)"
+			}
+		}
+	]
+}

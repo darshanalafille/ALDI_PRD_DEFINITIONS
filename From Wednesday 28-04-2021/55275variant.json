@@ -1,0 +1,30 @@
+{
+	"mainProductId": 9,
+	"mainProductCode": "55275",
+	"defaultVariantPrdCode": "55275MB",
+	"variantProducts": [
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Matte black"
+				}
+			],
+			"productCode": "55275MB",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Stainless steel"
+				}
+			],
+			"productCode": "44079",
+			"override": {
+				"productImage": "Wk-17_55275-44079_Image-2.jpg",
+				"productTitle": "EXPRESSI Large Milk Frother(Stainless steel)"
+			}
+		}
+	]
+}

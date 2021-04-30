@@ -1,0 +1,30 @@
+{
+  "mainProductId" : 9,
+  "defaultVariantPrdCode" : "705340BL",
+  "mainProductCode": "705340",  
+  "variantProducts" : [ 
+  {
+    "variants" : [ 
+	{
+      "key" : "color",
+      "value" : "black"
+    } 
+	],
+    "productCode" : "705340BL",
+    "override" : null
+  }, 
+  {
+    "variants" : [ 
+	{
+      "key" : "color",
+      "value" : "brown"
+    } 
+	],
+    "productCode" : "705340BR",
+    "override" : {
+      "productTitle": "ROYAL CLASS Leather Overnight Bag (Brown)",
+	  "productImage": "Wk14_705340_image 1.jpg"
+     }
+    }
+   ]
+}

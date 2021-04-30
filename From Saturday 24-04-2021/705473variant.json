@@ -1,0 +1,35 @@
+{
+	"mainProductId": 9,
+	"defaultVariantPrdCode": "705473BL",
+	"mainProductCode": "705473",
+	"variantProducts": [
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Black"
+				}
+			],
+			"productCode": "705473BL",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Gunmetal"
+				}
+			],
+			"productCode": "705473GM",
+			"override": {
+				"productTitle": "BAUHN 2.1 Channel Sound Bar with Built-in Subwoofer(Gunmetal)",
+				"productDetailedImages": [
+					"Wk16_705473_image-2.jpg"
+				],
+				"productDetailedImageThumbnails": [
+					"Wk16_705473_image-2-thumb.png"
+				]
+			}
+		}
+	]
+}

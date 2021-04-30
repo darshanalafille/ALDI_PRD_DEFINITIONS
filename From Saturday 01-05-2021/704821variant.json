@@ -1,0 +1,43 @@
+{
+	"mainProductId": 9,
+	"mainProductCode": "704821",
+	"defaultVariantPrdCode": "704821P",
+	"variantProducts": [
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Pink"
+				}
+			],
+			"productCode": "704821P",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Blue"
+				}
+			],
+			"productCode": "704821B",
+			"override": {
+				"productImage": "Wk-17_704818_Image-3.jpg",
+				"productTitle": "VISAGE Air Compression Foot Massager(Pink)"
+			}
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Grey"
+				}
+			],
+			"productCode": "704821G",
+			"override": {
+				"productImage": "Wk-17_704818_Image-4.jpg",
+				"productTitle": "VISAGE Air Compression Foot Massager(Pink)"
+			}
+		}
+	]
+}

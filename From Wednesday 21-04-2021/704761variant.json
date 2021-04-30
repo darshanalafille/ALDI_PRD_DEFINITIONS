@@ -1,0 +1,67 @@
+{
+	"mainProductId": 9,
+	"mainProductCode": "704761",
+	"defaultVariantPrdCode": "704761SW",
+	"variantProducts": [
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Solid 11-0602TPG Snow White"
+				}
+			],
+			"productCode": "704761SW",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Solid 16-1806TPG Woodrose"
+				}
+			],
+			"productCode": "704761WR",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Solid 17-1540TPG Apricot Brandy"
+				}
+			],
+			"productCode": "704761AB",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Solid 17-4716TPG Storm Blue"
+				}
+			],
+			"productCode": "704761SB",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Solid 18-4006TPG Quiet Shade"
+				}
+			],
+			"productCode": "704761QS",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Printed Plaid 18-4006 TPG Quiet Shade,13-4104TPG Antarctica and White"
+				}
+			],
+			"productCode": "704761PP",
+			"override": null
+		}
+	]
+}

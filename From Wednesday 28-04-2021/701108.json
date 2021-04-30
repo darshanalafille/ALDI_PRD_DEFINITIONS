@@ -1,0 +1,36 @@
+﻿{
+	"productCode": "701108",
+	"categoryId": 30,
+	"productName": "BODUM® Vacuum Travel Mug 350mL",
+	"productTitle": "BODUM® Vacuum Travel Mug 350mL(Natural)",
+	"productDesc": "Double wall stainless steel Bodum Vacuum Travel Mug will keep beverages hot or cold longer.",
+	"productPrice": "14.99",
+	"productImage": "Wk-17_701108_Image-1.jpg",
+	"productDetailedDesc": "-Durable, double wall stainless steel construction<br>-Great for travel, home or office<br>-Capacity: 350mL<br>-Dishwasher safe<br>-BPA free lid",
+	"productAttributes":null,
+	"productAttributesExt": null,
+	"productWarrantyDesc": null,
+	"productDeliveryReturnsDesc": "<b>Delivery</b><p>Currently delivering to selected postcodes in NSW, VIC & QLD. Your order will be dispatched within 1-2 business days and you will receive order updates via email with tracking details.</p><br><b>Returns</b><p>While we hope you'll be happy with your order, you can return a product to your nearest store or contact us via email to arrange. To check if you are eligible for a refund please refer to our Returns Policy.</p>",
+	"productDetailedImages": [
+		"Wk-17_701108_Image-1.jpg",
+		"Wk-17_701108_Image-2.jpg",
+		"Wk-17_701108_Image-3.jpg",
+		"Wk-17_701108_Image-4.jpg",
+		"Wk 17_701108_Image 5.jpg"
+	],
+	"productDetailedImageThumbnails": [
+		"Wk-17_701108_Image-1-thumb.png",
+		"Wk-17_701108_Image-2-thumb.png",
+		"Wk-17_701108_Image-3-thumb.png",
+		"Wk-17_701108_Image-4-thumb.png",
+		"Wk-17_701108_Image-5-thumb.png"
+	],
+	"lineItemList": null,
+	"maxLimitPerOrder": null,
+	"itemPackageType": "UNIT",
+	"itemPackageType2": "Carton",
+	"itemDepth": 10,
+	"itemHeight": 23,
+	"itemLength": 9,
+	"itemWeight": 1
+}

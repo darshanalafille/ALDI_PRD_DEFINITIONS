@@ -1,0 +1,43 @@
+{
+	"mainProductId": 9,
+	"mainProductCode": "704817",
+	"defaultVariantPrdCode": "704817P",
+	"variantProducts": [
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Pink"
+				}
+			],
+			"productCode": "704817P",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Blue"
+				}
+			],
+			"productCode": "704817B",
+			"override": {
+				"productImage": "Wk-17_704817_Image-4.jpg",
+				"productTitle": "VISAGE Shiatsu Back Massage Cushion(Blue)"
+			}
+		},
+		{
+			"variants": [
+				{
+					"key": "color",
+					"value": "Grey"
+				}
+			],
+			"productCode": "704817G",
+			"override": {
+				"productImage": "Wk-17_704817_Image-3.jpg",
+				"productTitle": "VISAGE Shiatsu Back Massage Cushion(Grey)"
+			}
+		}
+	]
+}

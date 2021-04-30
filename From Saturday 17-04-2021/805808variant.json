@@ -1,0 +1,53 @@
+{
+	"mainProductId": 9,
+	"mainProductCode": "805808",
+	"defaultVariantPrdCode": "805808WB",
+	"variantProducts": [
+		{
+			"variants": [
+				{
+					"key": "Accessory",
+					"value": "Water Bottle"
+				}
+			],
+			"productCode": "805808WB",
+			"override": null
+		},
+		{
+			"variants": [
+				{
+					"key": "Accessory",
+					"value": "Mobile Phone Holder"
+				}
+			],
+			"productCode": "805808MPH",
+			"override": {
+				"productTitle": "BIKEMATE Bike Accessories - Mobile Phone Holder",
+				"productImage": "Wk15_805808_image-1.jpg",
+				"productAttributes": [
+					"Universal fit, compatible with most devices",
+					"Easy and secure attachment to the handlebar",
+					"Fits handlebar sizes from 7/8” - 1-1/4” in diameter"
+				]
+			}
+		},
+		{
+			"variants": [
+				{
+					"key": "Accessory",
+					"value": "Multi-Tool Set"
+				}
+			],
+			"productCode": "805808MTS",
+			"override": {
+				"productTitle": "BIKEMATE Bike Accessories - Multi-Tool Set",
+				"productImage": "Wk15_805808_image-3.jpg",
+				"productAttributes": [
+					"10 Tools in 1",
+					"Great for repairs and adjustments",
+					"Light-weight and compact"
+				]
+			}
+		}
+	]
+}
